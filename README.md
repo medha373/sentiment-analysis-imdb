@@ -33,10 +33,10 @@ python predict.py "This movie was absolutely fantastic!"
 ## Results
 | Metric    | Score |
 |-----------|-------|
-| Accuracy  | XX.XX% |
-| Precision | XX.XX% |
-| Recall    | XX.XX% |
-| F1-score  | XX.XX% |
+| Accuracy  | 66% |
+| Precision | 23% |
+| Recall    | 45.6% |
+| F1-score  | 57.7% |
 
 ![Confusion Matrix](outputs/confusion_matrix.png)
 
